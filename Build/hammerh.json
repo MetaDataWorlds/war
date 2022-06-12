@@ -1,0 +1,11 @@
+{
+"companyName": "Xform",
+"productName": "Hammer2",
+"dataUrl": "hammerh.data.unityweb",
+"asmCodeUrl": "hammerh.asm.code.unityweb",
+"asmMemoryUrl": "hammerh.asm.memory.unityweb",
+"asmFrameworkUrl": "hammerh.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
